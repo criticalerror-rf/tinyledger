@@ -45,7 +45,7 @@ The system supports extensibility that allows:
 - More comprehensive coverage possible, but to save time only these implementations were done.
 
 ### Testing 
-- There is decent test coverage between 85-100%. (85% Class Level, 84% Method Level, 88% Line level)
+- There is decent test coverage between 85-100%. (92% Class Level, 87% Method Level, 89% Line level)
 - Majority of critical tests are implemented .
 - Did not go for full 100% coverage because it might have had diminishing returns.
 
